@@ -1,0 +1,2 @@
+bits.c: In function ‘addOK’:
+bits.c:198: warning: suggest parentheses around operand of ‘!’ or change ‘|’ to ‘||’ or ‘!’ to ‘~’
